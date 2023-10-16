@@ -1,0 +1,132 @@
+{
+  "LOGINPAGE": {
+    "signIn": "SIGN IN",
+    "signUp": "SIGN UP",
+    "forgotPassword": "Forgot Password?",
+    "emailAddressFieldTitle": "Email Address",
+    "emailAddressHintText": "Enter Your Email Address",
+    "passwordFieldTitle": "Password",
+    "passwordHintText": "Enter Password"
+  },
+  "SIGNUPPAGE": {
+    "signUpTitle": "Forgot Password",
+    "signUpDesc": "Register with your valid email address",
+    "signUpDescPage2": "Fill up your personal information details",
+    "emailAddressFieldTitle": "Email Address",
+    "emailAddressHintText": "Enter Your Email Address",
+    "passwordFieldTitle": "Password",
+    "passwordHintText": "Create your Password",
+    "cfmpasswordFieldTitle": "Confirm Password",
+    "cfmpasswordHintText": "Re-enter your Password",
+    "fullNameFieldTitle": "Full Name",
+    "fullNameHintTitle": "Enter your full name",
+    "dobFieldTitle": "Date of Birth",
+    "phoneNoFieldTitle": "Phone Number",
+    "phoneNoHintText": "+60",
+    "departmentFieldTitle": "Department",
+    "departmentHintTitle": "Enter your department",
+    "designationFieldTitle": "Designation",
+    "designationHintTitle": "Enter your designation",
+    "companyNameFieldTitle": "Company Name",
+    "companyNameHintText": "Enter your company name",
+    "unselectHintTitle": "- Select -",
+    "submitBtn": "SUBMIT",
+    "success": "SUCCESS!",
+    "doneBtn": "DONE",
+    "nextBtn": "NEXT",
+    "signUp": "SIGN UP",
+    "successDesc1": "Your account has been created succesfully.",
+    "successDesc2": "Our team will verify once approved",
+    "successDesc3": "you will receive an email.",
+    "requiredFieldErrorText": "This field is required",
+    "invalidPhoneNoErrorText": "Please enter a valid phone number",
+    "invalidEmailErrorText": "Please enter a valid email address",
+    "passwordLengthErrorText": "Password must contain at least 8 characters",
+    "passwordUppercaseErrorText": "Password must contain at least 1 uppercase characters",
+    "passwordLowercaseErrorText": "Password must contain at least 1 lowercase characters",
+    "passwordSpecialErrorText": "Password must contain at least 1 special characters",
+    "passwordDigitErrorText": "Password must contain at least 1 digit characters",
+    "passwordNotMatch": "Passowrd and Confirm Password must match"
+  },
+  "FORGOTPASSWORDPAGE": {
+    "forgotPasswordTitle": "Forgot Password",
+    "forgotPasswordDesc": "Please enter your email address. You will receive a Link to create new password via email",
+    "emailAddressFieldTitle": "Email Address",
+    "emailAddressHintText": "Enter Your Email Address",
+    "submitBtn": "SUBMIT",
+    "success": "SUCCESS!",
+    "doneBtn": "DONE",
+    "successDesc": "Check your email address for a link to reset your password."
+  },
+  "EDITACCOUNT": {
+    "accountPageTitle": "Account",
+    "editPageTitle": "EDIT ACCOUNT",
+    "saveBtn": "Save",
+    "emailAddressFieldTitle": "Email Address",
+    "dobFieldTitle": "Date of Birth",
+    "phoneNoFieldTitle": "Phone Number",
+    "companyNameFieldTitle": "Company Name",
+    "requiredFieldErrorText": "This field is required",
+    "invalidPhoneNoErrorText": "Please enter a valid phone number"
+  },
+  "ABOUTUS": {
+    "aboutUsPageTitle": "About Us",
+    "contentTitle1": "With the aim to take the lead in the advanced global EPC market, we provide various services for areas ranging from project development, engineering, procurement, construction, and commissioning to O&M. ",
+    "contentDescription1": "Samsung Engineering is a specialized EPC company that provides comprehensive solutions across all areas of the plant industry. With strong pride for our pioneering role in the history of the Korean plant industry in the past 40 years, we successfully performed numerous projects around the world and grew into a globally competitive engineering company. ",
+    "contentDescription2": "We continuously expand our business across the engineering industry including Oil and Gas processing, Refinery, Petrochemical, Industrial, Environmental, BIO, and Green Solution areas. Based on our extensive experience, accumulated technologies and talented resources, we provide various services from the feasibility studies to engineering, procurement, construction, commissioning and O&M. ",
+    "contentTitle2": "Building the Future",
+    "contentDescription3": "Successfully completing over 1,000 projects in various regions around the world, including the Middle East, Asia, Americas and Europe, with our unique services for the past half a century, we are committed to building a global reputation for our flwaless quality and improving customer value.",
+    "contentDescription4": "We will continue to enhance the future value of our clients driven by change and innovation, practice sustainable business management which values the environment, and contribute to the prosperity of mankind."
+  },
+  "CRANELOC": {
+    "craneLocPageTitle": "Crane Location",
+    "craneLocDesc": "Sarawak Methanol Plant",
+    "craneDetailTitle": "Status/Details",
+    "subcontractor": "Subcontractor",
+    "location": "Location",
+    "date": "Date",
+    "liftingSpvr": "Lifting Spvr",
+    "photo": "Photo",
+    "liftingPlan": "Listing Plan"
+  },
+  "CHEMICALREGISTER": {
+    "chemicalRegisterTitle": "Chemical Register",
+    "leakCheckPageTitle": "LEAK CHECK",
+    "symbolTitle": "Symbol",
+    "sdsSummary": "SDS Summary",
+    "noMoreItem": "No more items",
+    "noRecord": "No record found"
+  },
+  "UTILITY": {
+    "alert_dialog_ok_text": "OK",
+    "alert_dialog_title_error_text": "Error",
+    "general_alert_message_error_response": "Sorry something is wrong. Please try again later.",
+    "item_not_found": "Item not found",
+    "invalid_request": "Invalid request. Please try again later",
+    "download_started": "Download started"
+  },
+  "LOTOMODULE": {
+    "lotoStationListTitle": "Lock Out Tag Out",
+    "lotoBuidlingTotailUnit": "Total Unit: ",
+    "panelOn": "On",
+    "panelOff": "Off",
+
+    "emtpyPanelMap": "No Panel Map Data",
+    "emtpyPanelList": "No Panel List Data",
+
+    "panelMapTabTitle": "Layout",
+    "panelListTabTitle": "Panel No",
+
+    "switchDetailTitle": "Status/Details",
+    "switchDetailStatus": "Status",
+    "switchDetailRating": "Rating:",
+    "switchDetailUnitNo": "Unit No:",
+
+    "switchDetailService": "Service:",
+    "switchDetailFeederTag": "Feeder Tag:",
+
+    "switchDetailEIDC": "EIDC No:",
+    "switchDetailSwitchNo": "Switch No:",
+    "switchDetailPfU": "Power for Unit:"
+  }
+}
